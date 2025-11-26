@@ -6,7 +6,7 @@
 ✉️ 스터디 문의 : jacobgreen4477@gmail.com
 
 📁 스터디 후기
-- 2025년: [download](https://github.com/dmskorea/.github/edit/main/profile/[단머스]2025년스터디후기_vF1.9.pdf)
+- 2025년: [download](./[단머스]2025년스터디후기_vF1.9.pdf)
 
 ------------------
 
